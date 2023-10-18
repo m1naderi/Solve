@@ -23,3 +23,6 @@ Clean and minimal look for better concentration and smooth animation that is not
 
 The app is fully optimized for iPad experience and stage manager. You can drag the window everywhere and resize it every time you want, and the app will run as smoothly as you expect.
 
+
+
+made by my iPad in Swift Playground.

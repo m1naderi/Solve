@@ -4,10 +4,20 @@ A Pretty iPad Calculator
 Simple and useful Calculator for your iPad and iPhone.
 # Customization
 
-
-https://github.com/m1naderi/Solve/assets/43914990/401009f6-cf3a-42a7-b824-7811d46a1ee7
+![trim 8EDCFB4E-AF92-47B4-BD28-A0A036210F1B](https://github.com/m1naderi/Solve/assets/43914990/43d85c51-0317-4f3c-815d-53dda135b576)
 
 You can customize the look of your calculator by change the sharpness of corners or what color secondary text color be or even change the background. all of it can be customized and set for your liking. 
 Your little cute Calculator
 
-#Animation
+#Clean look and Animations
+
+![trim 1F381D0A-09E7-490C-BCF8-2E57F144B9B4](https://github.com/m1naderi/Solve/assets/43914990/0255c282-698d-4880-8966-e2a214bce46e)
+
+Clean and minimal look for better concentration and smooth animation that is not too much to distract you and it's not too loud to feel like a dead app.
+
+#iPad Optimized
+
+![trim 1FFFBBB5-6604-43A0-9413-6199E663AF9C](https://github.com/m1naderi/Solve/assets/43914990/1cedccd1-d9c4-41aa-ae35-dfe0592c17b5)
+
+The app is fully optimized for iPad experience and stage manager. You can drag the window everywhere and resize it every time you want, and the app will run smoothly as you expect.
+
